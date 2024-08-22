@@ -16,4 +16,4 @@
 </p>
 
 
-I’m currently working on [TelegramClone](https://github.com/m-a-kh/telegram).
+I’m currently learning c++.
